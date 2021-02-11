@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///../src/pages/Contacts.vue?4315"],"names":[],"mappings":"AAsCA;EACE;EACA;AArCF;AAuCA;EACE;AApCF,C","file":"css/9.aa8ddd26.css","sourcesContent":["\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n.contacts {\n  background: white;\n  padding: 3rem;\n}\n.q-list {\n  width: 80vw;\n}\n"],"sourceRoot":""}

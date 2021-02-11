@@ -1,0 +1,35 @@
+.q-btn[data-v-e9a4460a] {
+  height: 54px;
+}
+.text[data-v-e9a4460a] {
+  cursor: pointer;
+  color: #EE1144;
+}
+.button .q-btn[data-v-1214f55c] {
+  height: 48px;
+}
+.q-item__section[data-v-1214f55c] {
+  margin-top: 2rem;
+}
+.text[data-v-1214f55c] {
+  cursor: pointer;
+}
+.q-page[data-v-2ef8cbdc] {
+  padding: 2rem 2rem;
+}
+@media (max-width: 599px) {
+.q-page[data-v-2ef8cbdc] {
+    width: 100%;
+}
+}
+.q-card[data-v-2ef8cbdc] {
+  width: 70vh;
+  height: 450px;
+}
+@media (max-width: 599px) {
+.q-card[data-v-2ef8cbdc] {
+    width: 100%;
+}
+}
+
+/*# sourceMappingURL=1.6af55ed5.css.map*/

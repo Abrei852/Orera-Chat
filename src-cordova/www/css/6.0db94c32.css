@@ -1,0 +1,43 @@
+.q-banner[data-v-1a221585] {
+  width: 80vw;
+  margin: 0 auto;
+  top: 50px;
+  z-index: 2;
+  opacity: 0.8;
+}
+@media (max-width: 599px) {
+.q-banner[data-v-1a221585] {
+    width: 100%;
+}
+}
+.chat[data-v-1a221585] {
+  position: relative;
+  width: 80vw;
+  max-width: auto;
+  background-color: #faf9fc !important;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='4' height='4' viewBox='0 0 4 4'%3E%3Cpath fill='%23e2a5b3' fill-opacity='0.4' d='M1 3h1v1H1V3zm2-2h1v1H3V1z'%3E%3C/path%3E%3C/svg%3E") !important;
+}
+@media (max-width: 599px) {
+.chat[data-v-1a221585] {
+    width: 100%;
+}
+}
+.q-footer[data-v-1a221585] {
+  width: 80vw;
+  margin: 0 auto;
+}
+@media (max-width: 599px) {
+.q-footer[data-v-1a221585] {
+    width: 100%;
+}
+}
+#send[data-v-1a221585] {
+  color: #ffffff;
+  margin: 0 auto;
+}
+.q-banner[data-v-1a221585] {
+  z-index: 2;
+  top: 50px;
+}
+
+/*# sourceMappingURL=6.0db94c32.css.map*/
