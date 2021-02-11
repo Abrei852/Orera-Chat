@@ -169,6 +169,9 @@ export default {
 </script>
 
 <style lang="scss" scoped>
+.q-item__section--side {
+  padding-right: 0;
+}
 .q-page{
   overflow: hidden;
   @media (max-height: $breakpoint-xs-max) {
@@ -177,8 +180,8 @@ export default {
 }
 .mobile,
 .desktop {
-  height: 100%;
-  margin: 0 80px;
+  height: 70vh;
+  margin: 0 0.3rem;
 }
 .logo {
   margin: auto;
@@ -196,7 +199,11 @@ export default {
   margin-top: -2rem;
 }
 .platforms {
-  top: 70vh;
+  top: 38vh;
+
+  @media (max-height: $breakpoint-xs-max) and (orientation : landscape){
+    display: none;
+  }
 }
 .q-footer {
   margin: 10px auto 0;

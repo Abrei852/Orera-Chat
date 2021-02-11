@@ -35,7 +35,6 @@ function createWindow () {
       // preload: path.resolve(__dirname, 'electron-preload.js')
     }
   })
-
   mainWindow.setMenuBarVisibility(false)
   mainWindow.loadURL(process.env.APP_URL)
 
