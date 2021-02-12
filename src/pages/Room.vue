@@ -5,7 +5,7 @@
       class="bg-red-1 text-center text-red text-bold fixed-top"
       >{{ error }}</q-banner
     >
-    <video class="localUser" ref="localVideo" autoplay playsinline />
+    <video class="localUser" ref="localVideo" autoplay playsinline muted/>
     <div class="button row justify-center">
       <q-btn
         v-if="!hangupButton"
